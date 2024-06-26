@@ -1,3 +1,28 @@
+## rc_reason_clients (jazzy) - 0.3.1-4
+
+The packages in the `rc_reason_clients` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rc_reason_clients --override-release-repository-push-url git@github.com:revyos-ros/rc_reason_clients-release` on `Wed, 26 Jun 2024 12:56:28 -0000`
+
+These packages were released:
+- `rc_reason_clients`
+- `rc_reason_msgs`
+
+Version of package(s) in repository `rc_reason_clients`:
+
+- upstream repository: https://github.com/roboception/rc_reason_clients_ros2.git
+- release repository: https://github.com/revyos-ros/rc_reason_clients-release.git
+- rosdistro version: `0.3.1-3`
+- old version: `0.3.1-3`
+- new version: `0.3.1-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rc_reason_clients (rolling) - 0.3.1-1
 
 The packages in the `rc_reason_clients` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rc_reason_clients --rosdistro rolling` on `Thu, 15 Jun 2023 14:08:37 -0000`
